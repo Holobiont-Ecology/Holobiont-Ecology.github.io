@@ -57,6 +57,11 @@ a:hover {
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 
+.layout--single .page {
+  max-width: var(--mm-content-width);
+  margin: 0 auto;
+}
+
 /* Header image styling */
 .page__hero--overlay {
   min-height: 37vh;
