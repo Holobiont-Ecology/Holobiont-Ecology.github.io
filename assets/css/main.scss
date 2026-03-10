@@ -81,7 +81,12 @@ a:hover {
 .site-footer {
   background: var(--mm-primary-color);
   color: white;
-  padding: 2rem 0;
+  text-align: center;
+  padding: 1rem 0;      /* reduce vertical padding */
+  display: flex;        /* enable vertical centering */
+  justify-content: center;
+  align-items: center;  /* vertically center the content */
+  flex-direction: column;
 }
 
 .site-footer a {
