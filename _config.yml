@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Holobiont Systems Biology
+title: LEE Lab: Holobiont Systems Biology
 email: soon-jae.lee@um6p.ma
 description: >- 
   Research on the organizing and functional principles of holobionts, symbiotic communication, and multi‑species chronobiology.
