@@ -59,10 +59,11 @@ a:hover {
 
 /* Header image styling */
 .page__hero--overlay {
-  max-width: 1380px;   /* match content width */
-  margin: 0 auto;      /* center it */
-  min-height: 34vh;        /* increase height */
-  background-size: cover;  /* fill the space */
+  width: 100%;
+  max-width: var(--mm-content-width);
+  margin: 0 auto;
+  min-height: 34vh;
+  background-size: cover;
   background-position: center 30%;
   border-radius: 12px;
   overflow: hidden;
