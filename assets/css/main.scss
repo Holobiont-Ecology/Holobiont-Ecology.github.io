@@ -2,13 +2,70 @@
 # Only the main Sass file needs front matter
 ---
 
-/* Your custom colors */
-$primary-color: #2F5D50;
-$accent-color: #D9A441;
-$background-color: #FAF7F0;
+/* Natural Ecology Theme Colors */
+$primary-color: #2F5D50;      // deep forest green
+$accent-color: #D9A441;       // warm sunlight gold
+$background-color: #FAF7F0;   // soft natural cream
+$text-color: #2A2A2A;         // charcoal
+$muted-green: #A3B18A;        // sage
 
-/* Load the custom skin */
+/* Load custom skin */
 @import "minimal-mistakes/skins/custom";
 
-/* Load the theme */
+/* Load theme */
 @import "minimal-mistakes";
+
+/* Background */
+body {
+  background-color: $background-color;
+  color: $text-color;
+}
+
+/* Links */
+a {
+  color: $primary-color;
+}
+
+a:hover {
+  color: $accent-color;
+}
+
+/* Buttons */
+.btn,
+.btn--primary {
+  background-color: $primary-color;
+  border-color: $primary-color;
+  color: white;
+}
+
+.btn:hover,
+.btn--primary:hover {
+  background-color: $accent-color;
+  border-color: $accent-color;
+}
+
+/* Page content box */
+.page__content {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+/* Section dividers */
+.section-divider {
+  height: 2px;
+  background: linear-gradient(to right, $primary-color, $accent-color);
+  margin: 3rem 0;
+}
+
+/* Footer */
+.site-footer {
+  background: $primary-color;
+  color: white;
+  padding: 2rem 0;
+}
+
+.site-footer a {
+  color: $accent-color;
+}
