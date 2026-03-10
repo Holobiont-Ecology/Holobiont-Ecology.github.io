@@ -59,7 +59,9 @@ a:hover {
 
 /* Header image styling */
 .page__hero--overlay {
-  min-height: 30vh;        /* increase height */
+  max-width: 1200px;   /* match content width */
+  margin: 0 auto;      /* center it */
+  min-height: 34vh;        /* increase height */
   background-size: cover;  /* fill the space */
   background-position: center;
   border-radius: 12px;
