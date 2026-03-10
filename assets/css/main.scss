@@ -63,6 +63,13 @@ a:hover {
   overflow: hidden;
 }
 
+.page__hero--overlay {
+  min-height: 60vh;   /* increase height */
+  background-size: cover;
+  background-position: center;
+}
+
+
 /* Section dividers */
 .section-divider {
   height: 2px;
