@@ -87,12 +87,15 @@ a:hover {
   background: var(--mm-primary-color);
   color: white;
   text-align: center;
-  padding: 1rem 0;      /* reduce vertical padding */
-  display: flex;        /* enable vertical centering */
-  justify-content: center;
-  align-items: center;  /* vertically center the content */
-  flex-direction: column;
+  padding: 1.2rem 0;
+  font-size: 0.9rem;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  border-radius: 12px;
+  max-width: var(--mm-content-width);
+  margin: 2rem auto 0 auto;
 }
+
 
 .site-footer a {
   color: var(--mm-accent-color);
