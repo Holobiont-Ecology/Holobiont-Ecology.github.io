@@ -2,6 +2,10 @@
 layout: splash
 title: "Holobiont Systems Biology Lab"
 permalink: /
+header:
+  overlay_image: /assets/images/Summary_photo.png
+  overlay_filter: 0.3
+  show_overlay: true
 ---
 
 Welcome to Lee Lab.
