@@ -54,10 +54,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Prof. Soon-Jae LEE"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Holobiont systems biology, symbiosis, chronobiology, and ecological modeling."
+  name   : "LEE Lab: Holobiont Systems Biology"
+  avatar : "/assets/images/lab-logo.npg"
+  bio    : "We study the organizing principles of holobionts, symbiotic communication, and multi‑species chronobiology."
   links:
+    - label: "PI: Prof. Soon-Jae Lee"
+      icon: "fas fa-user"
+      url: "/people/soon-jae-lee"
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0002-7216-0236"
