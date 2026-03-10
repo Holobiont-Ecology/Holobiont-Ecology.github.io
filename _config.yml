@@ -1,19 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: LEE Lab: Holobiont Systems Biology
+title: "LEE Lab: Holobiont Systems Biology"
 email: soon-jae.lee@um6p.ma
 description: >- 
   Research on the organizing and functional principles of holobionts, symbiotic communication, and multi‑species chronobiology.
@@ -24,10 +9,9 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+#timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -55,12 +39,12 @@ plugins:
 
 author:
   name   : "LEE Lab: Holobiont Systems Biology"
-  avatar : "/assets/images/lab-logo.npg"
+  avatar : "/assets/images/lab-logo.png"
   bio    : "We study the organizing principles of holobionts, symbiotic communication, and multi‑species chronobiology."
   links:
     - label: "PI: Prof. Soon-Jae Lee"
       icon: "fas fa-user"
-      url: "/people/soon-jae-lee"
+      url: "/PI/"
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0002-7216-0236"
@@ -79,23 +63,23 @@ footer:
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+  #    path: "_pages"
+  #    type: pages
+  #  values:
+  #    layout: single
+  #    author_profile: false
+      #read_time: true
+      #comments: true
+      #share: true
+      #related: true
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
