@@ -6,7 +6,7 @@ permalink: /
 
 Welcome to Lee Lab.
 
-We study the organizing principles of holobionts, symbiotic communication, and multi‑species chronobiology.
+We study **the organizing principles of holobionts**, **symbiotic communication**, and **multi‑species chronobiology**.
 
 Our work combines systems biology, ecological modelling, and mycorrhiza genetics to uncover the rules that govern plant–microbiome interactions across space and time.
 
