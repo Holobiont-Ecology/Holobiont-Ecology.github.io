@@ -58,14 +58,14 @@ a:hover {
 }
 
 header:
-  overlay_image: /assets/images/Summary_photo.png
+  overlay_image: /assets/images/summary.png
   overlay_filter: 0.3
   show_overlay: true
   
 
 /* Header image styling */
 .page__hero--overlay {
-  min-height: 70vh;        /* increase height */
+  min-height: 50vh;        /* increase height */
   background-size: cover;  /* fill the space */
   background-position: center;
   border-radius: 12px;
