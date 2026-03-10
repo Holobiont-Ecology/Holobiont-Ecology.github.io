@@ -1,5 +1,5 @@
 ---
-title: "Prof. Soon-Jae Lee"
+title: "Principal Investigator"
 layout: single
 permalink: /PI/
 author_profile: false
