@@ -30,4 +30,4 @@ He serves as an expert consultant for the National Foundation for Science and Cr
 - Korean Society of Mushroom Science (Board Member)
 
 ### Publications
-See full list on ORCID: https://orcid.org/0000-0002-7216-0236
+See full list on - [ORCID](https://orcid.org/0000-0002-7216-0236)
