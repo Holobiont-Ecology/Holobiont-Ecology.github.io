@@ -65,14 +65,11 @@ header:
 
 /* Header image styling */
 .page__hero--overlay {
+  min-height: 70vh;        /* increase height */
+  background-size: cover;  /* fill the space */
+  background-position: center;
   border-radius: 12px;
   overflow: hidden;
-}
-
-.page__hero--overlay {
-  min-height: 60vh;   /* increase height */
-  background-size: cover;
-  background-position: center;
 }
 
 
