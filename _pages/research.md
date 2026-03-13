@@ -9,11 +9,11 @@ author_profile: false
 
 ![Understanding to Harness](/assets/images/Moto.png)
 
-Our lab investigates the organizing principles of holobiont systems - integrated networks of plants and their microbial partners. We study how genetic, metabolic, and temporal processes interact across species to produce coherent biological function. We have 
+Our lab investigates the organizing principles of holobiont systems - integrated networks of hosts and their microbial partners. We study how genetic, metabolic, and temporal processes interact across species to produce coherent biological function. We have 
 
 A central model in our work is **mycorrhizal symbiosis**, one of the most ancient and successful mutualisms on Earth, originating over 450 million years ago.
 
-Our central focus is **symbiotic communication**: how plants and their microbiomes coordinate physiology and behavior through dynamic exchanges of signals, resources, and biological rhythms.
+Our central focus is **symbiotic communication**: how hosts and their microbiomes coordinate physiology and behavior through dynamic exchanges of signals, resources, and biological rhythms.
 
 By combining systems biology, ecological modelling, and mycorrhiza genetics, we aim to uncover general laws of multi‑species organization, with particular emphasis on:
 
