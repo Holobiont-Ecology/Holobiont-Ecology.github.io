@@ -23,6 +23,7 @@ By combining systems biology, ecological modelling, and mycorrhiza genetics, we 
 
 **By uncovering the rules that govern symbiotic coordination, we seek to contribute to** emerging strategies in ecosystem restoration, microbiome‑informed agriculture, and, in the long term, the design of resilient biological systems that could support terra‑forming or controlled ecological life‑support contexts.
 
+![Understanding Holobiont System to Ecosystem & Agriculture](/assets/images/Holobiont.png)
 
 ---
 
