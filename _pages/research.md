@@ -7,7 +7,7 @@ author_profile: false
 
 ## Research Vision
 
-/assets/images/Moto.png
+![Understanding to Harness](/assets/images/Moto.png)
 
 Our lab investigates the organizing principles of holobiont systems - integrated networks of plants and their microbial partners. We study how genetic, metabolic, and temporal processes interact across species to produce coherent biological function. We have 
 
