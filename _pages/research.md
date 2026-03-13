@@ -35,10 +35,10 @@ By combining systems biology, ecological modelling, and mycorrhiza genetics, we 
 How plants and microbes exchange signals and resources across space and time.
 
 ### **Genetic and metabolic integration in mycorrhizal symbioses**
-How fungal and plant genomes coordinate development and metabolism.
+How fungal and plant coordinate development and metabolism under the symbiosis.
 
 ### **Chronobiology of multi‑species systems**
-How biological rhythms emerge from interactions between organisms.
+How biological rhythms emerge from interactions between organisms and ochestrate the systems.
 
 ### **Ecological and evolutionary dynamics of symbiotic coordination**
 How holobionts respond to environmental change and stress.
