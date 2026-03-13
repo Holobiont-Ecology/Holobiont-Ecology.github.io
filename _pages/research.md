@@ -9,7 +9,7 @@ author_profile: false
 
 ![Understanding to Harness](/assets/images/Moto.png)
 
-Our lab investigates the organizing principles of holobiont systems - integrated networks of hosts and their microbial partners. We study how genetic, metabolic, and temporal processes interact across species to produce coherent biological function. 
+Our lab investigates the organizing principles of **holobiont systems - integrated networks of hosts and their microbial partners** under various conditions. We study how genetic, metabolic, and temporal processes interact across species to produce coherent biological function. 
 
 A central model in our work is **mycorrhizal symbiosis**, one of the most ancient and successful mutualisms on Earth, originating over 450 million years ago.
 
