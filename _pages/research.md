@@ -18,8 +18,8 @@ Our central focus is **symbiotic communication**: how hosts and their microbiome
 By combining systems biology, ecological modelling, and mycorrhiza genetics, we aim to uncover general laws of multi‑species organization, with particular emphasis on:
 
 - the emergence of **holobiont chronobiology**
-- spatiotemporal logic in symbiotic systems
-- ecological and evolutionary consequences of symbiotic coordination under environmental change
+- **spatiotemporal logic** in symbiotic systems
+- **ecological and evolutionary consequences of symbiotic coordination** under environmental change
 
 **Beyond fundamental discovery**, our work aims to harness the principles of holobiont organization for applications in **ecological conservation, sustainable agriculture, and long‑term ecosystem resilience**. Because mycorrhizal symbioses represent one of the most ancient and successful mutualisms on Earth—dating back over 450 million years—they offer a powerful model for understanding how multi‑species systems can be engineered or guided to stabilize environments, enhance plant productivity, and support life in changing or extreme conditions.
 
