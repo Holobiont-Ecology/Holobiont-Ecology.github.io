@@ -7,6 +7,8 @@ author_profile: false
 
 ## Prof. Soon-Jae Lee
 
+![Profile](/assets/images/profile_photo.jfif)
+
 Prof. Soon-Jae Lee investigates the principles that govern symbiotic systems, focusing on how genetic, ecological, and temporal processes integrate across scales to shape the function and evolution of holobionts. His work combines **systems biology**, **microbial ecology**, and **mycorrhiza genetics** to uncover how plants and their microbial partners coordinate metabolism, development, and chronobiology in space and time. Trained in both Physics and Biology, he approaches living systems through a quantitative and integrative lens, bridging theoretical and experimental perspectives.
 
 During his PhD at the Plant Biology Research Institute (Montreal Botanical Garden & University of Montreal, Canada), he pioneered **RNA interference** and **circadian clock** studies in **arbuscular mycorrhizal fungi**. This work introduced the concept that **the holobiont, rather than the individual organism, constitutes the fundamental unit of chronobiology**.
