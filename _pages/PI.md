@@ -7,7 +7,9 @@ author_profile: false
 
 ## Prof. Soon-Jae Lee
 
-![Profile](/assets/images/profile_photo.png)
+<p style="text-align: center;">
+  <img src="/assets/images/profile_photo.png" alt="Profile" width="300">
+</p>
 
 Prof. Soon-Jae Lee investigates the principles that govern symbiotic systems, focusing on how genetic, ecological, and temporal processes integrate across scales to shape the function and evolution of holobionts. His work combines **systems biology**, **microbial ecology**, and **mycorrhiza genetics** to uncover how plants and their microbial partners coordinate metabolism, development, and chronobiology in space and time. Trained in both Physics and Biology, he approaches living systems through a quantitative and integrative lens, bridging theoretical and experimental perspectives.
 
