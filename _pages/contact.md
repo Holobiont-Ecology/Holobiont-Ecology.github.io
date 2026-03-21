@@ -10,6 +10,7 @@ author_profile: false
 **Prof. Soon-Jae Lee**
 
 Holobiont Systems Biology Lab
+African Genome Centre
 
 E-mail: [soon-jae.lee@um6p.ma](mailto:soon-jae.lee@um6p.ma)
 
