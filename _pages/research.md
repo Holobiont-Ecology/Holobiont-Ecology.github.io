@@ -11,7 +11,7 @@ author_profile: false
 
 Our lab investigates the organizing principles of **holobiont systems - integrated networks of hosts and their microbial partners** under diverse conditions. We study how genetic, metabolic, and temporal processes interact across species to produce coherent biological function. 
 
-A central model in our work is **mycorrhizal symbiosis**, one of the most ancient and successful mutualisms on Earth, originating over 450 million years ago.
+A central model in our work is **mycorrhizal symbiosis**, one of the most ancient and successful mutualisms on Earth, originating approximately 450 million years ago.
 
 Our central focus is **symbiotic communication**: how hosts and their microbiomes coordinate physiology and behavior through dynamic exchanges of signals, resources, and biological rhythms.
 
@@ -21,7 +21,7 @@ By combining systems biology, ecological modelling, and mycorrhiza genetics, we 
 - **spatiotemporal logic** in symbiotic systems
 - **ecological and evolutionary consequences of symbiotic coordination** under environmental change
 
-**Beyond fundamental discovery**, our work aims to harness the principles of holobiont organization for applications in **ecological conservation, sustainable agriculture, and long‑term ecosystem resilience**. Because mycorrhizal symbioses represent one of the most ancient and successful mutualisms on Earth—dating back over 450 million years—they offer a powerful model for understanding how multi‑species systems can be engineered or guided to stabilize environments, enhance plant productivity, and support life in changing or extreme conditions.
+**Beyond fundamental discovery**, our work aims to harness the principles of holobiont organization for applications in **ecological conservation, sustainable agriculture, and long‑term ecosystem resilience**. Because mycorrhizal symbioses represent one of the most ancient and successful mutualisms on Earth, they offer a powerful model for understanding how multi‑species systems can be engineered or guided to stabilize environments, enhance plant productivity, and support life in changing or extreme conditions.
 
 **By uncovering the rules that govern symbiotic coordination, we seek to contribute to** emerging strategies in ecosystem restoration, microbiome‑informed agriculture, and, in the long term, the design of resilient biological systems that could support terra‑forming or controlled ecological life‑support contexts.
 
