@@ -11,7 +11,7 @@ author_profile: false
 Harnessing plant-to-plant signalling via common mycorrhizal networks for enhanced community-level resistance in crops.  
 *Journal of Experimental Botany* DOI: 10.1093/jxb/erag159
 
-Microbial efficiency enhancement drives carbon sequestration in long-term organic farming systems: linking taxonomic succession to carbon use efficiency.   *Frontiers in Microbiology* DOI: 10.3389/fmicb.2026.1770908
+Microbial efficiency enhancement drives carbon sequestration in long-term organic farming systems: linking taxonomic succession to carbon use efficiency.  *Frontiers in Microbiology* DOI: 10.3389/fmicb.2026.1770908
 
 Plastic mulch productivity-sustainability tradeoffs and pathways toward an eco-friendly framework: insights from a global meta-analysis.  
 *Nature Communications* DOI: 10.1038/s41467-026-68798-2
