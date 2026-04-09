@@ -7,7 +7,7 @@ author_profile: false
 
 ## Publications
 
-2026
+## 2026-
 Harnessing plant-to-plant signalling via common mycorrhizal networks for enhanced community-level resistance in crops.  
 *Journal of Experimental Botany* DOI: 10.1093/jxb/erag159
 
@@ -19,7 +19,7 @@ Plastic mulch productivity-sustainability tradeoffs and pathways toward an eco-f
 Arbuscular mycorrhizal networks—A climate-smart blueprint for agriculture.  
 *Plant Communications* DOI: 10.1016/j.xplc.2025.101526
 
-##Selected Publications Before 2026
+## Selected Publications Before 2026
 
 Integrated strategies for enhancing agrifood productivity, lowering greenhouse gas emissions, and improving soil health.  
 *The innovation* DOI: 10.1016/j.xinn.2025.101006
@@ -51,7 +51,7 @@ Holobiont chronobiology: mycorrhiza may be a key to linking aboveground and unde
 Conserved proteins of the RNA interference system in the arbuscularmycorrhizal fungus rhizoglomus irregulare provide new insight into the evolutionary history of glomeromycota.  
 *Genome Biology and Evolution* DOI: 10.1093/gbe/evy002
 
-##Reviews 
+## Reviews 
 Applied soil ecology
 Archives of microbiology
 BMC genomics
@@ -62,6 +62,6 @@ Mycorrhiza
 Nature communications
 
 
-For a complete and up‑to‑date list of publications, please visit:
+## For a complete and up‑to‑date list of publications, please visit:
 
 - [ORCID](https://orcid.org/0000-0002-7216-0236)
