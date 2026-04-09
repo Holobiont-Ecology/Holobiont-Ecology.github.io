@@ -53,14 +53,14 @@ Conserved proteins of the RNA interference system in the arbuscularmycorrhizal f
 *Genome Biology and Evolution* DOI: 10.1093/gbe/evy002
 
 ## Reviews 
-Applied soil ecology
-Archives of microbiology
-BMC genomics
-Fungal biology
-ISME communications
-Journal of soil science and plant nutrition
-Mycorrhiza
-Nature communications
+Applied soil ecology  
+Archives of microbiology  
+BMC genomics  
+Fungal biology  
+ISME communications  
+Journal of soil science and plant nutrition  
+Mycorrhiza  
+Nature communications  
 
 
 ## For a complete and up‑to‑date list of publications, please visit:
