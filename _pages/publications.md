@@ -24,7 +24,7 @@ Arbuscular mycorrhizal networks—A climate-smart blueprint for agriculture.
 *Plant Communications*  
 DOI:10.1016/j.xplc.2025.101526
 
-## Selected Publications Before 2026
+## Publications about Mycorrhizal Genetics and Ecology
 
 Integrated strategies for enhancing agrifood productivity, lowering greenhouse gas emissions, and improving soil health.  
 *The innovation*  
@@ -66,17 +66,6 @@ Conserved proteins of the RNA interference system in the arbuscularmycorrhizal f
 *Genome Biology and Evolution*  
 DOI:10.1093/gbe/evy002
 
-## Reviews 
-Applied soil ecology  
-Archives of microbiology  
-BMC genomics  
-Fungal biology  
-ISME communications  
-Journal of soil science and plant nutrition  
-Mycorrhiza  
-Nature communications  
-
-
-## For a complete and up‑to‑date list of publications, please visit:
+## For up‑to‑date list of publications, please visit:
 
 - [ORCID](https://orcid.org/0000-0002-7216-0236)
