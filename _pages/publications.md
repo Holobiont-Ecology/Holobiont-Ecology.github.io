@@ -8,6 +8,11 @@ author_profile: false
 ## Publications
 
 ## 2026-
+
+Functional differentiation of glomalin-related soil protein fractions reveals dual pathways for carbon storage in organic farming systems.  
+*Science of The Total Environment*  
+DOI: 10.1016/j.scitotenv.2026.181821
+
 Harnessing plant-to-plant signalling via common mycorrhizal networks for enhanced community-level resistance in crops.  
 *Journal of Experimental Botany*  
 DOI:10.1093/jxb/erag159
