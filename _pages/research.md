@@ -37,7 +37,7 @@ How plants and microbes exchange signals and resources across space and time.
 ### **Genetic and metabolic integration in mycorrhizal symbioses**
 How fungal and plant coordinate development and metabolism under symbiosis.
 
-### **Chronobiology of multi‑species systems**
+### **Chronobiology of holobiont**
 How biological rhythms emerge from interactions between organisms and ochestrate the systems.
 
 ### **Ecological and evolutionary dynamics of symbiotic coordination**
