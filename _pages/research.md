@@ -23,6 +23,8 @@ By combining systems biology, ecological modelling, and mycorrhiza genetics, we 
 
 **Beyond fundamental discovery**, our work aims to harness the principles of holobiont organization for applications in **ecological conservation, sustainable agriculture, and long‑term ecosystem resilience**. Because mycorrhizal symbioses represent one of the most ancient and successful mutualisms on Earth, they offer a powerful model for understanding how multi‑species systems can be engineered or guided to stabilize environments, enhance plant productivity, and support life in changing or extreme conditions.
 
+![Modulation of plant growth by understanding holobiont](/assets/images/Summary photo.png)
+
 **By uncovering the rules that govern symbiotic coordination, we seek to contribute to** emerging strategies in ecosystem restoration, microbiome‑informed agriculture, and, in the long term, the design of resilient biological systems that could support terra‑forming or controlled ecological life‑support contexts.
 
 ![Understanding systems for innovation](/assets/images/Holobiont.png)
