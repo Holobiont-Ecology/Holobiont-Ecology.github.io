@@ -9,8 +9,8 @@ author_profile: false
 
 ## 2026-
 
-Advancing microbial ecology, microbiomes, and One Health in Africa: From regional initiatives to pan-African flagship programs
-*ISME Journal*
+Advancing microbial ecology, microbiomes, and One Health in Africa: From regional initiatives to pan-African flagship programs.  
+*ISME Journal*  
 DOI: 10.1093/ismejo/wrag132
 
 Functional differentiation of glomalin-related soil protein fractions reveals dual pathways for carbon storage in organic farming systems.  
