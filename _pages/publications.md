@@ -9,6 +9,10 @@ author_profile: false
 
 ## 2026-
 
+Rhizophagus irregularis modulates neighbour-primed defences in Medicago truncatula against foliar pathogens via common mycelial network-mediated inter-plant signals.  
+*Communications Biology*  
+DOI: 10.1038/s42003-026-10727-6
+
 Advancing microbial ecology, microbiomes, and One Health in Africa: From regional initiatives to pan-African flagship programs.  
 *ISME Journal*  
 DOI: 10.1093/ismejo/wrag132
