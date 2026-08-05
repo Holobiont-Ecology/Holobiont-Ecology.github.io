@@ -21,7 +21,7 @@ At the University of Lausanne (Switzerland), he expanded this framework through 
 Prof. Lee has taught and supervised graduate students in ecology and evolution at the University of Lausanne, where he received recognition for outstanding dedication to teaching. He is committed to strengthening scientific capacity globally, including collaborative initiatives in Africa addressing ecological and agricultural challenges in rapidly changing environments.
 
 ### Service and Scientific Leadership
-He serves as an expert consultant for the National Foundation for Science and Creativity (Korea) and on the editorial boards of Frontiers in Plant Science and Agriculture with additional editorial contributions to the Springer Nature. He is a scientific advisory board member for a UNICEF award winning international company and regularly delivers academic and public lectures in Canada, Switzerland, Latvia, and Korea.
+He serves as an expert consultant for the National Foundation for Science and Creativity (Korea) and on the editorial boards of academic journals including Frontiers in Plant Science and Agriculture with additional editorial contributions to the Springer Nature. He is a scientific advisory board member for a UNICEF award winning international company and regularly delivers academic and public lectures in Canada, Switzerland, Latvia, and Korea.
 
 ### Awards
 - Award for Outstanding Dedication in Teaching (Switzerland, 2021)
