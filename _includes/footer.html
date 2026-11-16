@@ -4,14 +4,23 @@
     padding-bottom: 1.2rem !important;
   }
 
+  .footer-content {
+    justify-content: center !important;
+    gap: 3rem !important;
+  }
+
   .footer-content p {
     margin: 0 !important;
   }
 
-  /* 메인 로고 (AGC) */
+  /* 메인 로고 (AGC): 둥근 흰 배경 칩 */
   .footer-logo {
     height: 140px;
     width: auto;
+    background: white;
+    padding: 10px 14px;
+    border-radius: 8px;
+    box-sizing: border-box;
   }
 
   /* 파트너 로고 (UM6P, UNIL): 더 작게 */
@@ -34,12 +43,10 @@
     .footer-logo--partner {
       height: 40px;
     }
-    .footer-logo--whitebg {
-      padding: 6px 8px;
-    }
     .footer-content {
       flex-direction: column;
       text-align: center;
+      gap: 1.5rem;
     }
   }
 </style>
@@ -63,5 +70,7 @@
          alt="UNIL Logo"
          class="footer-logo footer-logo--partner footer-logo--whitebg">
         
+  </div>
+</footer>
   </div>
 </footer>
