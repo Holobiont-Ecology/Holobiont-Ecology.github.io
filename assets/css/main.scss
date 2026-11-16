@@ -100,6 +100,14 @@ a:hover {
   color: var(--mm-accent-color);
 }
 
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+}
+
+
 /* Typography */
 h1, h2, h3, h4 {
   font-family: "Cormorant Garamond", serif;
