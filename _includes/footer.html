@@ -13,9 +13,21 @@
     width: auto;
   }
 
+  /* UNIL 전용: 흰 배경 깔아주기 */
+  .footer-logo--whitebg {
+    background: white;
+    padding: 8px 12px;
+    border-radius: 8px;
+    box-sizing: border-box;
+  }
+
   @media (max-width: 600px) {
     .footer-logo {
       height: 80px;
+    }
+    .footer-logo--whitebg {
+      height: 60px;
+      padding: 6px 8px;
     }
     .footer-content {
       flex-direction: column;
@@ -41,8 +53,7 @@
 
     <img src="/assets/images/UNIL_logo.png"
          alt="UNIL Logo"
-         class="footer-logo">
+         class="footer-logo footer-logo--whitebg">
         
   </div>
 </footer>
-
