@@ -8,12 +8,18 @@
     margin: 0 !important;
   }
 
+  /* 메인 로고 (AGC) */
   .footer-logo {
     height: 140px;
     width: auto;
   }
 
-  /* UNIL 전용: 흰 배경 깔아주기 */
+  /* 파트너 로고 (UM6P, UNIL): 더 작게 */
+  .footer-logo--partner {
+    height: 70px;
+  }
+
+  /* UNIL 전용: 흰 배경 */
   .footer-logo--whitebg {
     background: white;
     padding: 8px 12px;
@@ -25,8 +31,10 @@
     .footer-logo {
       height: 80px;
     }
+    .footer-logo--partner {
+      height: 40px;
+    }
     .footer-logo--whitebg {
-      height: 60px;
       padding: 6px 8px;
     }
     .footer-content {
@@ -49,11 +57,11 @@
     
     <img src="/assets/images/UM6P_logo.png"
          alt="UM6P Logo"
-         class="footer-logo">
+         class="footer-logo footer-logo--partner">
 
     <img src="/assets/images/UNIL_logo.png"
          alt="UNIL Logo"
-         class="footer-logo footer-logo--whitebg">
+         class="footer-logo footer-logo--partner footer-logo--whitebg">
         
   </div>
 </footer>
