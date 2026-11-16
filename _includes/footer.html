@@ -15,12 +15,19 @@
 
   /* 메인 로고 (AGC): 둥근 흰 배경 칩 */
   .footer-logo {
-    height: 140px;
+    height: 145px;
     width: auto;
     background: white;
     padding: 10px 14px;
     border-radius: 8px;
     box-sizing: border-box;
+  }
+
+  /* 파트너 로고 그룹: UM6P + UNIL을 붙여서 */
+  .partner-group {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;      /* 두 로고 사이 간격 — 더 붙이려면 0.5rem */
   }
 
   /* 파트너 로고 (UM6P, UNIL): 더 작게 */
@@ -43,6 +50,9 @@
     .footer-logo--partner {
       height: 40px;
     }
+    .partner-group {
+      gap: 0.5rem;
+    }
     .footer-content {
       flex-direction: column;
       text-align: center;
@@ -61,16 +71,16 @@
     <img src="/assets/images/AGC_logo2.png"
          alt="Lee Lab Logo"
          class="footer-logo">
-    
-    <img src="/assets/images/UM6P_logo.png"
-         alt="UM6P Logo"
-         class="footer-logo footer-logo--partner">
 
-    <img src="/assets/images/UNIL_logo.png"
-         alt="UNIL Logo"
-         class="footer-logo footer-logo--partner footer-logo--whitebg">
+    <div class="partner-group">
+      <img src="/assets/images/UM6P_logo.png"
+           alt="UM6P Logo"
+           class="footer-logo footer-logo--partner">
+
+      <img src="/assets/images/UNIL_logo.png"
+           alt="UNIL Logo"
+           class="footer-logo footer-logo--partner footer-logo--whitebg">
+    </div>
         
-  </div>
-</footer>
   </div>
 </footer>
