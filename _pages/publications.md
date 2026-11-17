@@ -9,6 +9,10 @@ author_profile: false
 
 ## 2026-
 
+Untapped potential of mycorrhizal network-mediated plant-to-plant communication.  
+*Biochemist*  
+doi: https://doi.org/10.1042/BIO2026237
+
 Rhizophagus irregularis modulates neighbour-primed defences in Medicago truncatula against foliar pathogens via common mycelial network-mediated inter-plant signals.  
 *Communications Biology*  
 DOI: 10.1038/s42003-026-10727-6
