@@ -15,7 +15,7 @@
 
   /* 메인 로고 (AGC): 둥근 흰 배경 칩 */
   .footer-logo {
-    height: 140px;
+    height: 150px;
     width: auto;
     background: white;
     padding: 10px 14px;
@@ -30,9 +30,14 @@
     gap: 0.75rem;
   }
 
-  /* 파트너 로고 (UM6P, UNIL): 더 작게 */
+  /* 파트너 로고 (UNIL): 기준 크기 */
   .footer-logo--partner {
-    height: 70px;
+    height: 80px;
+  }
+
+  /* UM6P 전용: UNIL보다 크게 */
+  .footer-logo--um6p {
+    height: 95px;   /* ← 이 숫자만 취향대로 조정 */
   }
 
   /* UNIL 전용: 흰 배경 */
@@ -45,10 +50,13 @@
 
   @media (max-width: 600px) {
     .footer-logo {
-      height: 80px;
+      height: 90px;
     }
     .footer-logo--partner {
-      height: 40px;
+      height: 70px;
+    }
+    .footer-logo--um6p {
+      height: 80px;
     }
     .partner-group {
       gap: 0.5rem;
@@ -75,7 +83,7 @@
 
       <img src="/assets/images/UM6P_logo.png"
            alt="UM6P Logo"
-           class="footer-logo footer-logo--partner">
+           class="footer-logo footer-logo--partner footer-logo--um6p">
 
       <img src="/assets/images/UNIL_logo.png"
            alt="UNIL Logo"
